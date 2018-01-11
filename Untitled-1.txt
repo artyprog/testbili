@@ -1,5 +1,0 @@
-export default Vue => {
-  Vue.component('my-component', {
-    render: h => h('h2', null, ['hello bili'])
-  })
-}
